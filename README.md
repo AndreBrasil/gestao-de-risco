@@ -2,7 +2,7 @@
 
 Neste projeto estão disponíveis:
 
-  1. Projeto.Rproj (este arquivo deve ser utilizado para iniciar o R)
+ 1. Projeto.Rproj (este arquivo deve ser utilizado para iniciar o R)
   
   2. CodigoDissertacao.R (uma vez aberto o R, este código deve ser carregado)
   

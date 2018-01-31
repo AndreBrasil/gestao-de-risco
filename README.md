@@ -1,4 +1,4 @@
-# GESTÃO DE RISCOS NA AVALIAÇÃO DE PROGRAMAS DE PÓS-GRADUAÇÃO
+# GESTÃO DE RISCOS NA AVALIAÇÃO DE PPGs
 
 Neste projeto estão disponíveis:
 

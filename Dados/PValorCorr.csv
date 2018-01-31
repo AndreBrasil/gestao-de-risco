@@ -1,0 +1,28 @@
+﻿Indicador,PValor_RiscoGeral,CorrBtBisserial_RiscoGeral,PValor_Estagnacao,CorrBtBisserial_Estagnacao,PValor_Involucao,CorrBtBisserial_Involucao,PValor_Descontinuidade,CorrBtBisserial_Descontinuidade
+"Proporção de Notas 5,6 e 7 (IES)",0.346,0.00885,0.000107,-0.0734,2.03e-19,0.144,1.79e-07,-0.079
+Média Ponderada das Notas (IES),0.883,-0.0157,7.76e-05,-0.0658,3.52e-19,0.143,8.33e-12,-0.147
+PPGs por Municipio,8.64e-09,0.0763,0.712,-0.0176,1.4e-14,0.121,0.399,0.0189
+Índice de Gini,5.03e-11,0.0997,0.0125,0.0413,1.34e-06,0.0709,0.000508,0.0515
+Ocupados com Sup. Completo (18+ anos),0.0183,0.0369,0.0325,-0.021,3.67e-10,0.0828,0.733,-0.00198
+População do Município (milhares) ,6.84e-09,0.0811,0.338,-0.0158,3.51e-09,0.113,0.00879,0.0378
+IDHM,0.0833,0.0257,0.0125,-0.0308,1.53e-08,0.0797,0.769,-0.00871
+IDHM Renda,0.0446,0.0341,0.0141,-0.0335,5.13e-09,0.0893,0.961,0.00165
+IDHM Educação,0.374,0.0184,0.151,-0.015,0.000451,0.0527,0.389,-0.0122
+Subíndice de Escolaridade (IDHM),0.151,0.0337,0.626,0.00294,0.00715,0.0469,0.808,0.004
+Pop. com Superior Completo (25+ anos),0.0302,0.0267,0.0384,-0.0254,9.12e-10,0.0753,0.493,-0.00652
+Expectativa de Anos de Estudo,0.00348,-0.0519,0.00924,-0.0401,0.66,-0.0011,0.00185,-0.0512
+Taxa de Frequência Bruta ao Superior,0.64,0.00184,0.0579,-0.0277,0.000457,0.0462,0.398,-0.0147
+Renda per Capita,0.022,0.0318,0.0158,-0.0376,2.21e-09,0.0873,0.683,0.00713
+Prop. de Pós-Graduados por Município,0.197,0.00941,0.118,-0.0255,5.06e-07,0.0659,0.0619,-0.0325
+Prop. de Pós-Graduados por RGI,0.699,0.00377,0.0248,-0.0346,8.28e-05,0.0585,0.169,-0.0228
+Prop. de Pós-Graduados por RGInt,0.822,-0.0102,0.000369,-0.0577,0.000188,0.0494,0.817,-0.00203
+Densidade de PPGs por Município,0.165,-0.0013,0.655,0.0173,0.545,-0.00033,1.61e-06,-0.0321
+Densidade de PPGs por RGI,0.256,0.00248,0.253,0.0203,0.892,0.0214,2.26e-05,-0.061
+Densidade de PPGs por RGInt,0.277,-2.79e-05,0.23,0.0182,0.278,0.00683,0.00671,-0.0391
+Proporção de Docentes Sênior,2.76e-25,0.152,0.00457,0.0446,5.13e-27,0.149,0.00532,0.0481
+Proporção de Docentes Júnior,9.13e-15,-0.135,0.0118,-0.0585,2.57e-16,-0.124,0.307,-0.022
+Proporção de Docentes Sênior e Júnior,0.308,-0.0376,0.222,-0.0295,0.503,-0.0283,0.375,0.00837
+Razão de Perm. pelo Mínimo da Área,0.22,0.0044,0.0701,-0.0243,4.77e-09,0.0386,0.00154,-0.00853
+IDEB Médio do Município,0.345,-0.0113,0.00287,-0.0448,0.00157,0.0455,0.0311,-0.0223
+Experiência do Coordenador de PPG,0.287,0.0286,0.0415,0.0395,0.346,-0.018,0.58,0.028
+Idade do PPG,3.36e-79,0.225,2.75e-30,0.0886,1.22e-55,0.252,0.978,-0.0172

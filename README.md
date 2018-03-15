@@ -2,7 +2,8 @@
 
 Neste projeto estão disponíveis:
 
-1. (Dissertação) Gestão de riscos na avaliação de programas de pós-graduação.pdf (dissertação completa em formato PDF)
+1. (Dissertação) Gestão de riscos na avaliação de programas de pós-graduação.pdf 
+(dissertação completa em formato PDF)
 
 2. Projeto.Rproj (este arquivo deve ser utilizado para iniciar o R)
   
